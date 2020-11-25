@@ -1,0 +1,27 @@
+{
+  "appointments": [
+    {
+      "Subject": "Medication for Evans Tlhako 32",
+      "description": "Covid19 treatment",
+      "StartTime": "2020-11-24T16:23:00.000Z",
+      "EndTime": "2020-11-24T18:27:00.000Z",
+      "createdAt": "2020-11-24T15:23:00.000Z",
+      "id": 1
+    },
+    {
+      "Subject": "Medication for Someone else",
+      "description": "Taking pills",
+      "StartTime": "2020-11-13T06:52:00.000Z",
+      "EndTime": "2020-11-27T04:56:00.000Z",
+      "createdAt": "2020-11-25T04:52:00.000Z",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "John@example.com"
+    }
+  ]
+}
